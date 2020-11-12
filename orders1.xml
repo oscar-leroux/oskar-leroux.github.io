@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="string" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+	<company>KURSI</company>
+	<merchantid>Kursi</merchantid>
+	<offers>
+		<offer sku="00-00000247">
+			<model>Водоочиститель Кувшин Аквафор Аквамарин (белый)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2057</price>
+		</offer>
+		<offer sku="00-00000425">
+			<model>Водоочиститель Кувшин Аквафор Аквамарин (синий кобальт)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2014</price>
+		</offer>
+		<offer sku="00-00000248">
+			<model>Водоочиститель Кувшин Аквафор Аквамарин (цикламен)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2057</price>
+		</offer>
+		<offer sku="00-00000901">
+			<model>Водоочиститель Кувшин Аквафор Арт A5 (светло-голубой)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2600</price>
+		</offer>
+		<offer sku="00-00000820">
+			<model>Водоочиститель Кувшин Аквафор Арт (коралл)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2600</price>
+		</offer>
+		<offer sku="00-00000819">
+			<model>Водоочиститель Кувшин Аквафор Арт А5 (мятный)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2600</price>
+		</offer>
+		<offer sku="00-00000182">
+			<model>Водоочиститель Кувшин Аквафор Гарри (красный) </model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1914</price>
+		</offer>
+		<offer sku="00-00000178">
+			<model>Водоочиститель Кувшин Аквафор Гарри (синий) </model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1914</price>
+		</offer>
+		<offer sku="00-00000177">
+			<model>Водоочиститель Кувшин Аквафор Гратис (рубиново-красный)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1686</price>
+		</offer>
+		<offer sku="00-00000176">
+			<model>Водоочиститель Кувшин Аквафор Гратис (синий кобальт)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1686</price>
+		</offer>
+		<offer sku="00-00000175">
+			<model>Водоочиститель Кувшин Аквафор Кантри (зеленый)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1914</price>
+		</offer>
+		<offer sku="00-00000174">
+			<model>Водоочиститель Кувшин Аквафор Кантри (красный)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1914</price>
+		</offer>
+		<offer sku="00-00000171">
+			<model>Водоочиститель Кувшин Аквафор Кантри (синий)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1914</price>
+		</offer>
+		<offer sku="00-00000635">
+			<model>Водоочиститель Кувшин Аквафор Орлеан (синий-кобальт)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>5100</price>
+		</offer>
+		<offer sku="00-00000636">
+			<model>Водоочиститель Кувшин Аквафор Орлеан (черный)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>5100</price>
+		</offer>
+		<offer sku="00-00000170">
+			<model>Водоочиститель Кувшин Аквафор Престиж А5 (белый)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1994</price>
+		</offer>
+		<offer sku="00-00000169">
+			<model>Водоочиститель Кувшин Аквафор Престиж А5 (вишневый) </model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1990</price>
+		</offer>
+		<offer sku="00-00000166">
+			<model>Водоочиститель Кувшин Аквафор Престиж А5 (синий кобальт)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1990</price>
+		</offer>
+		<offer sku="00-00000436">
+			<model>Водоочиститель Кувшин Аквафор Престиж А5 (черный)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1994</price>
+		</offer>
+		<offer sku="00-00000165">
+			<model>Водоочиститель Кувшин Аквафор Прованс А5 Тритан (белый)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2657</price>
+		</offer>
+		<offer sku="00-00000164">
+			<model>Водоочиститель Кувшин Аквафор Прованс А5 Тритан (черный)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2657</price>
+		</offer>
+		<offer sku="00-00000350">
+			<model>Водоочиститель Кувшин Аквафор Ультра (голубой) Акция</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1329</price>
+		</offer>
+		<offer sku="00-00000302">
+			<model>Водоочиститель Кувшин Аквафор Ультра (зеленый)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1457</price>
+		</offer>
+		<offer sku="00-00000351">
+			<model>Водоочиститель Кувшин Аквафор Ультра (зеленый) Акция</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1329</price>
+		</offer>
+		<offer sku="00-00000978">
+			<model>Водоочиститель Кувшин Аквафор Ультра (Коралл) Акция</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2380</price>
+		</offer>
+		<offer sku="00-00000610">
+			<model>Водоочиститель Кувшин Аквафор Ультра (оранжевый)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2620</price>
+		</offer>
+		<offer sku="00-00000637">
+			<model>Водоочиститель Кувшин Смайл белый</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2570</price>
+		</offer>
+		<offer sku="00-00000955">
+			<model>Водоочиститель Кувшин Смайл зеленый</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2570</price>
+		</offer>
+		<offer sku="00-00000638">
+			<model>Водоочиститель Кувшин Смайл цикламен</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2570</price>
+		</offer>
+		<offer sku="00-00000261">
+			<model>Кувшин Аквафор Орлеан (Белый)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2545,54</price>
+		</offer>
+		<offer sku="00-00000903">
+			<model>Кувшин Аквафор Орлеан (Вишневый)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>5100</price>
+		</offer>
+	</offers>
+</kaspi_catalog>
