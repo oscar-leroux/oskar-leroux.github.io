@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="string" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+	<company>KURSI</company>
+	<merchantid>kursi</merchantid>
+	<offers>
+		<offer sku="00-00000678">
+			<model>Автомат питьевой воды Аквафор DWM 202S</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price/>
+		</offer>
+		<offer sku="00-00000044">
+			<model>Автомат питьевой воды Аквафор DWM-101 S Морион</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>33717</price>
+		</offer>
+		<offer sku="00-00000800">
+			<model>Автомат питьевой воды Аквафор DWM-102S Морион (Black Edition)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>89000</price>
+		</offer>
+		<offer sku="00-00000045">
+			<model>В/О Аквафор DWM-312-12M-S1</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>16757</price>
+		</offer>
+		<offer sku="00-00000611">
+			<model>Водоочиститель Аквафор модель Аквафор Кристалл А для жёсткой воды</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price/>
+		</offer>
+		<offer sku="00-00000189">
+			<model>Водоочиститель Аквафор модель Аквафор Кристалл Н (исполнение 2) </model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>12567</price>
+		</offer>
+		<offer sku="00-00000576">
+			<model>Водоочиститель Аквафор модель Кристалл ECO H Pro</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price/>
+		</offer>
+		<offer sku="00-00000639">
+			<model>Водоочиститель Аквафор-ОСМО-050-5</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price/>
+		</offer>
+		<offer sku="00-00000048">
+			<model>Водоочиститель Аквафор-ОСМО-050-5 ПН</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>42690</price>
+		</offer>
+		<offer sku="00-00000050">
+			<model>Комплект модулей сменных фильтрующих К5-К2-К7</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>5401</price>
+		</offer>
+		<offer sku="00-00000052">
+			<model>Комплект модулей сменных фильтрующих К5-К2-КО-50-К7М </model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>11230</price>
+		</offer>
+		<offer sku="00-00000787">
+			<model>Комплект модулей сменных фильтрующих К5-КН-К7</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price/>
+		</offer>
+		<offer sku="00-00000070">
+			<model>Модуль сменный К3 (Кристалл)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1886</price>
+		</offer>
+		<offer sku="00-00000071">
+			<model>Модуль сменный К3-К2-К7 </model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>5657</price>
+		</offer>
+		<offer sku="00-00000072">
+			<model>Модуль сменный К7В</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>6943</price>
+		</offer>
+		<offer sku="00-00000073">
+			<model>Модуль сменный КH (Кристалл) </model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2114</price>
+		</offer>
+		<offer sku="00-00000056">
+			<model>Модуль сменный мембранный Аквафор КО-100	</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>7858</price>
+		</offer>
+		<offer sku="00-00000057">
+			<model>Модуль сменный мембранный Аквафор КО-100S</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>7858</price>
+		</offer>
+		<offer sku="00-00000054">
+			<model>Модуль сменный мембранный Аквафор КО-50 </model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>6944</price>
+		</offer>
+		<offer sku="00-00000055">
+			<model>Модуль сменный мембранный Аквафор КО-50S</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>6944</price>
+		</offer>
+		<offer sku="00-00000074">
+			<model>Модуль сменный фильтрующий К2</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2200</price>
+		</offer>
+		<offer sku="00-00000076">
+			<model>Модуль сменный фильтрующий К7 </model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2257</price>
+		</offer>
+		<offer sku="00-00000077">
+			<model>Модуль сменный фильтрующий К7М</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>2257</price>
+		</offer>
+		<offer sku="00-00000058">
+			<model>Сменный элемент мембранного типа OV-ULP1812-50 </model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>5772</price>
+		</offer>
+		<offer sku="00-00000059">
+			<model>Сменный элемент мембранного типа OV-ULP2012-100 </model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>7286</price>
+		</offer>
+		<offer sku="00-00000821">
+			<model>Элемент фильтрующий ЭФГ (112/508 - 10 мкм для холодной воды)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+			</availabilities>
+		</offer>
+	</offers>
+</kaspi_catalog>
